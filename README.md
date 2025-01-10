@@ -1,6 +1,6 @@
 # Unprecedented Female Mutation Bias in the Aye-Aye: Analysis Repository
 
-This repository contains the code and resources used for the analysis described in the manuscript **"Unprecedented female mutation bias in the aye-aye"**. The analysis focuses on downstream processing of sequencing data (VCF and BAM files) for two species: the aye-aye and the baboon.
+This repository contains the code and resources used for the analysis described in the manuscript **"Unprecedented female mutation bias in the aye-aye."** The analysis focuses on downstream processing of sequencing data (VCF and BAM files) for two species: the aye-aye and the baboon.
 
 ## Repository Structure
 
