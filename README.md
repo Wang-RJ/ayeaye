@@ -8,8 +8,8 @@ The repository is organized as follows:
 
 - **Top-level files**:
   - Three `.txt` files containing identified de novo mutations from:
-    - Aye-aye analyses
-    - Baboon analyses
+    - Aye-aye samples
+    - Baboon samples introduced in this study
     - Reanalyses of baboon samples published in Wu et al.
 
 - **Subfolders**:
