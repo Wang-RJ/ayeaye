@@ -1,0 +1,7 @@
+#!/bin/bash
+#PBS -l nodes=1:ppn=1,vmem=600mb,walltime=8:00:00
+#PBS -M rjwang@iu.edu
+#PBS -j oe
+cd /N/project/baboon/depths
+module load samtools
+samtools depth -r $chr ../bam_files/*.bam > samtools_depth.$chr.txt
