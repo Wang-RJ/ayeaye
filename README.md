@@ -30,7 +30,7 @@ Each subfolder includes:
 - **R Scripts**:
   - Located in the main folder of each analysis:
     - `callability.R`: Calculates callability from tables created in shell scripts.
-    - `denovo_<samples>.R`: Main script for identifying de novo mutations.
+    - `denovo_<subfolder>.R`: Main script for identifying de novo mutations in samples from each species.
     - `denovo_utilities.R`, `processBAM.R`, `processRelated.R`: Scripts with helper functions.
 
 ## Dependencies
