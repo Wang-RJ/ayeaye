@@ -23,9 +23,9 @@ Each subfolder includes:
 
 - **Shell Scripts**:
   - Located in the `shell` subfolder, these scripts perform callability and depth analyses.
-  - Scripts in the aye-aye folder also include analyses related to:
-    - Phasing with **POOHA** and **Unfazed**.
-    - Sex bias, as detailed in the manuscript.
+  - Scripts in the aye-aye folder also include:
+    - **`pooha_unfazed.sh`**: For phasing analyses using **POOHA** and **Unfazed**.
+    - **`sex_bias.sh`**: For analyzing sex bias, as detailed in the manuscript.
 
 - **R Scripts**:
   - Located in the main folder of each analysis:
